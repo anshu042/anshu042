@@ -55,6 +55,10 @@ I focus on writing clean, maintainable code while continuously learning and adap
 
 ---
 
+![snake gif](https://github.com/anshu042/anshu042/blob/output/github-contribution-grid-snake.gif)
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:94A3B8,100:E2E8F0&height=2&section=footer&text=" />
 
 <p align="center">
