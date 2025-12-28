@@ -1,4 +1,3 @@
-<!-- Subtle Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=120&section=header&text=&fontSize=0" />
 
 <h1 align="center">Hi 👋, I'm Anshu Kushwaha</h1>
@@ -55,7 +54,7 @@ I focus on writing clean, maintainable code while continuously learning and adap
 
 ---
 
-![snake gif](https://github.com/anshu042/anshu042/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/anshu042/anshu042/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
