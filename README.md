@@ -57,15 +57,7 @@ Web Development with Node.js
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshu04232@gmail.com)
 
 ---
-
-![snake gif](https://raw.githubusercontent.com/anshu042/anshu042/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:94A3B8,100:E2E8F0&height=2&section=footer" />
-
 ⭐ Always learning, building, and improving
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=100&section=footer&text=&fontSize=0" />
-
 </div>
 
